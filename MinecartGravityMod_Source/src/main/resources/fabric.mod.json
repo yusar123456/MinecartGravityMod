@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "id": "minecartmod",
+  "version": "1.0.0",
+  "name": "Minecart Gravity Mod",
+  "description": "Adds minecart gravity control and better aerodynamics.",
+  "authors": ["YourName"],
+  "entrypoints": {
+    "main": ["com.example.minecartmod.MinecartMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.15",
+    "minecraft": "1.21.3"
+  }
+}
